@@ -18,7 +18,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 
-#define ENABLE_LOCAL_DETECTION				1
+#define ENABLE_LOCAL_DETECTION				0
 #define ENABLE_LOCAL_THROTTLE				1
 
 #include "PersonClassifier.h"
